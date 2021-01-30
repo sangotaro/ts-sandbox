@@ -61,5 +61,5 @@ typings/
 .next
 
 # ts output
-dist
+lib
 
